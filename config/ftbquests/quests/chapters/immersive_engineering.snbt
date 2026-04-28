@@ -2662,7 +2662,7 @@
 			description: [
 				"Be careful when building your multiblocks, make sure they stay in a single chunk."
 				""
-				"This is strongly not recommended, as there may be problems, such as crashes or disconnection of your cables on the structures."
+				"This is strongly recommended, as there may be problems, such as crashes or disconnection of your cables on the structures otherwise."
 			]
 			dependencies: ["2C4EB8D4AD7073DF"]
 			id: "7C8D973D3EDE53E8"
